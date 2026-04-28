@@ -101,7 +101,12 @@ int main() {
 ```
 # OUTPUT:
 
-<img width="767" height="355" alt="image" src="https://github.com/user-attachments/assets/f910ece4-c19e-4c2b-a648-4c0d8eb38989" />
+<img width="806" height="502" alt="img 1 exp 1 CD" src="https://github.com/user-attachments/assets/a2e1f8bf-613f-429d-aeea-ecc1e80e6000" />
+
+
+
+<img width="736" height="482" alt="image 2 devcpp CD" src="https://github.com/user-attachments/assets/9da22e78-92c1-4787-9f16-dfe167039064" />
+
 
 
 # RESULT:
